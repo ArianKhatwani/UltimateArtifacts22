@@ -1,0 +1,15 @@
+name: AnimatedPrefixes
+version: 1.0.2
+main: ru.animatedprefixes.AnimatedPrefixes
+api-version: '1.21'
+authors: [OpenAI]
+description: Animated gradient prefixes displayed in the player list.
+commands:
+  prefix:
+    description: Manage animated prefixes
+    usage: /prefix help
+    aliases: [prefixes]
+permissions:
+  animatedprefixes.admin:
+    description: Allows managing animated prefixes
+    default: op

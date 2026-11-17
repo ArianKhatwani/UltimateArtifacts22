@@ -1,0 +1,116 @@
+# AnimatedPrefixes 1.0.2 — Paper 1.21.11
+# Период обновления анимации: 3 тика (чуть медленнее и плавнее прежнего)
+animation-period-ticks: 3
+
+presets:
+  owner:
+    name: "Owner"
+    text: "[✦ ✧ OWNER ✧ ✦]"
+    colors: ["#FFF7B0", "#FFD700", "#FF8C00", "#FF3D81", "#D946EF", "#8B5CF6", "#FFF7B0"]
+    style: true
+    animation: "royal_spectrum"
+
+  pre_owner:
+    name: "Pre-owner"
+    text: "[◆ PRE-OWNER ◆]"
+    colors: ["#FDE68A", "#F59E0B", "#FBCFE8", "#C084FC", "#FDE68A"]
+    style: true
+    animation: "shimmer"
+
+  admin:
+    name: "Admin"
+    text: "[⚡ ADMIN ⚡]"
+    colors: ["#FF7777", "#FFB86B", "#FFE66D", "#FF7777"]
+    style: true
+    animation: "wave"
+
+  admin_starter:
+    name: "Admin starter"
+    text: "[ADMIN STARTER]"
+    colors: ["#55D6FF", "#7C83FD", "#C084FC"]
+    style: true
+    animation: "static"
+
+  tech_admin:
+    name: "Tech Admin"
+    text: "[⌘ TECH ADMIN ⌘]"
+    colors: ["#54F1FF", "#397BFF", "#A855F7", "#54F1FF"]
+    style: true
+    animation: "tech_scan"
+
+  builder:
+    name: "Builder"
+    text: "[▰ BUILDER ▰]"
+    colors: ["#B7F7A8", "#48C774", "#F4D35E", "#B7F7A8"]
+    style: true
+    animation: "nature"
+
+  horn_owner:
+    name: "Обладатель рога"
+    text: "[♬ ОБЛАДАТЕЛЬ РОГА ♬]"
+    colors: ["#FFF1A8", "#F6C453", "#FF8A3D", "#FFF1A8"]
+    style: true
+    animation: "ember"
+
+  legend:
+    name: "Legend"
+    text: "[✧ LEGEND ✧]"
+    colors: ["#FFF4B8", "#E7A93B", "#FFF4B8"]
+    style: true
+    animation: "shimmer"
+
+  void:
+    name: "Void"
+    text: "[☄ VOID ☄]"
+    colors: ["#24104F", "#7C3AED", "#D8B4FE", "#24104F"]
+    style: true
+    animation: "aurora"
+
+  thunder:
+    name: "Thunder"
+    text: "[ϟ THUNDER ϟ]"
+    colors: ["#E9FFFF", "#58D9FF", "#547BFF", "#E9FFFF"]
+    style: true
+    animation: "tech_scan"
+
+  celestial:
+    name: "Celestial"
+    text: "[☼ CELESTIAL ☼]"
+    colors: ["#FFF7D6", "#A5D8FF", "#DCC6FF", "#FFF7D6"]
+    style: true
+    animation: "aurora"
+
+  inferno:
+    name: "Inferno"
+    text: "[♨ INFERNO ♨]"
+    colors: ["#FFF0A6", "#FF8C42", "#E52B2B", "#6B1010"]
+    style: true
+    animation: "ember"
+
+  frost:
+    name: "Frost"
+    text: "[❄ FROST ❄]"
+    colors: ["#F3FFFF", "#8DEBFF", "#6495ED", "#F3FFFF"]
+    style: true
+    animation: "ice"
+
+  royal:
+    name: "Royal"
+    text: "[♛ ROYAL ♛]"
+    colors: ["#FFE6A7", "#C084FC", "#7C3AED", "#FFE6A7"]
+    style: true
+    animation: "shimmer"
+
+  blood:
+    name: "Blood"
+    text: "[♥ BLOOD ♥]"
+    colors: ["#FFB4B4", "#E11D48", "#7F1D1D", "#FFB4B4"]
+    style: true
+    animation: "bloodwave"
+
+  nature:
+    name: "Nature"
+    text: "[❀ NATURE ❀]"
+    colors: ["#D9F99D", "#4ADE80", "#0F766E", "#D9F99D"]
+    style: true
+    animation: "nature"
